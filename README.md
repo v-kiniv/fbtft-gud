@@ -14,6 +14,9 @@ Links:
 
 <br><br><br><br>
 
+> **⚠ This driver uses a legacy rendering method.**  
+> Consider using the new DRM driver instead: https://github.com/v-kiniv/noritake-gud-drm
+
 ## Setup environment
 
 Get kernel source(change branch according to your current kernel version):
